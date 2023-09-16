@@ -14,7 +14,7 @@
     "uploader"
   ],
   "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V3",
+  "repository": "https://github.com/Conan830/DC-UPLOAD",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -26,11 +26,11 @@
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9976721"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3ef17a8cdb938335bd8ba292e6d816aa"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
@@ -67,7 +67,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
