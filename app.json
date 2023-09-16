@@ -22,7 +22,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": ""
+      "value": "6371092400:AAF7CPzqwqM3y0elzT557rT0rhGIm7JH6qs"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -34,7 +34,7 @@
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": ""
+      "value": "mongodb+srv://mytoons:mytoons@cluster0.10jhfvi.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
@@ -50,11 +50,11 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": ""
+      "value": "1956698956"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "dcurluploaderbot"
     }
   },
   "addons": [
